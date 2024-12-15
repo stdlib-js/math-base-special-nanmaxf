@@ -315,7 +315,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-nanmaxf/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-nanmaxf/main/LICENSE
-    
+
 <!-- <related-links> -->
 
 <!-- </related-links> -->
