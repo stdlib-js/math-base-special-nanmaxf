@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-nanmaxf/tags). For example,
+
+```javascript
 import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@v0.1.0-esm/index.mjs';
 ```
 
@@ -110,7 +115,7 @@ var v = nanmaxf( NaN, NaN );
 <body>
 <script type="module">
 
-import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@v0.1.0-esm/index.mjs';
+import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@esm/index.mjs';
 
 var m = nanmaxf( 3.0, 4.0 );
 console.log( m );
