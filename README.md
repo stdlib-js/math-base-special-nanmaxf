@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@deno/mod.js';
+import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@v0.1.0-deno/mod.js';
 ```
 
 #### nanmaxf( x, y )
@@ -105,7 +105,7 @@ var v = nanmaxf( NaN, NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@deno/mod.js';
+import nanmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmaxf@v0.1.0-deno/mod.js';
 
 var m = nanmaxf( 3.0, 4.0 );
 console.log( m );
